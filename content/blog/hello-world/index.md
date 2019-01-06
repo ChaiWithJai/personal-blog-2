@@ -1,21 +1,22 @@
 ---
 title: Hello World
-date: '2015-05-01T22:12:03.284Z'
+date: '2019-01-09T22:12:03.284Z'
 ---
 
-This is my first post on my new fake blog! How exciting!
+Shower thought...
+
+Why do we start every example when learning JS "hello world"?
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+We use "Hello, world!" as a was to introduce novices to a programming language. The phrase was initially used as a quick way to test if a program works. It's a much faster way to test than trying to think of random words and sentences on the spot.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+The "Hello, world!" phrase was first used in 1972 by Bell Labs from an internal memo sent by Brain Kernighan who wrote Programming in C:  A Tutorial (published in 1973).
 
-![Chinese Salty Egg](./salty_egg.jpg)
+But why, "Hello, world!"
+
+In an interview with ([Forbes India](http://www.forbesindia.com/interview/special/brian-kernighan-no-one-thought-c-would-become-so-big/29982/1#ixzz20uGsw1jH)) Kernighan said he doesn't really remember... but from what he can recall, he saw a cartoon that showed an egg and a chick and the chick was saying, "Hello, World."
+
+Before C other in programming languages like FORTRAN and BASIC, examples would be based on calculus and "MY HUMAN UNDERSTANDS ME."
+
+If you'd like to learn more about the history of "Hello, world." you should seriously reconsider your priorities and move onto something else.
